@@ -1,0 +1,18 @@
+*{
+    text-align: center;
+}
+div{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+#main_div{
+    width: 500px;
+    height: 250px;
+    display: flex;
+    
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+
