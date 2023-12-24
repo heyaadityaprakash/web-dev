@@ -1,0 +1,139 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#title{
+    background-color: rgb(255, 62, 94);
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 5rem;
+    line-height: 15;
+    color: white;
+}
+
+
+.navbar-brand{
+  font-family: "Ubuntu",sans-serif;
+  color: white;
+  padding: 3% 15%;
+  padding-bottom: 4.5rem;
+}
+.row{
+    padding: 3% 15%;
+}
+.dwnload-button{
+    margin:auto;
+}
+.tindog{
+    width: 60%;
+    transform: rotate(25deg);
+}
+.nav-item{
+    padding: 3% 15% ;
+
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+#features{
+    padding: 5%;
+    text-align: center;
+    
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:  rgb(255, 62, 94);
+
+}
+p{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: lighter;
+    color: grey;
+}
+.icon{
+    color: #ef8172;
+    margin-bottom: 3em;
+}
+.icon:hover{
+    color: rgb(255, 62, 94) ;
+}
+#testimonials{
+   
+    text-align: center;
+    background-color:  rgb(255, 62, 94);
+   
+    color: white;
+}
+.carousel-item{
+    padding: 3% 15%;
+
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 15;
+    font-size: 4rem;
+    padding: 4%;
+
+}
+h5{
+    font-size: larger bold;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 15;
+    font-size: 4rem;
+    padding: 4%;
+
+}
+.test-img{
+    border-radius: 100%;
+    width: 20%;
+    padding-bottom: 2%;
+}
+#press{
+    background-color:rgb(255, 62, 94);
+    padding-bottom: 4px;
+    text-align: center;
+
+    
+}
+.press-img{
+    width: 15%;
+    
+    text-align: center;
+
+}
+.card-title{
+    background-color: rgb(255, 62, 94);
+    text-align: center;
+    color: white;
+}
+#pricing{
+    text-align: center;
+   
+}
+   
+#cta{
+    padding-top: 3%;
+    text-align: center;
+   
+    background-color: rgb(255, 62, 94);
+   
+    
+}
+h4{
+    color: white;
+    padding: 4%;
+}
+@media (max-width:1028px){
+    .tindog{
+        position: static;
+        transform: rotate(0);
+
+    }
+    h1{
+        text-align: center;
+    }
+    .dwnload-button{
+        text-align: center;
+    }
+}

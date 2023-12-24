@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+}
+
+.heading{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #ff4c88;
+    padding: 5%;
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    margin: 0px;
+}
+.download{
+    margin: 2%;
+}
+.footer{
+    text-align: center;
+    padding: 10%;
+    margin-inline: 3%;
+}
+p{
+    padding-top: 4%;
+}
+.socials{
+    margin: 20px 10px;
+}
